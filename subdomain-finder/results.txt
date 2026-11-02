@@ -1,0 +1,14 @@
+========================================
+          SUBDOMAIN FINDER
+========================================
+
+[+] Target Domain: example.com
+[+] Starting DNS enumeration...
+
+[+] Found: www.example.com -> 93.184.216.34
+[+] Found: mail.example.com -> 93.184.216.34
+
+========== SCAN SUMMARY ==========
+[+] Total discovered: 2
+
+[+] Results saved to results/subdomains_found.txt
